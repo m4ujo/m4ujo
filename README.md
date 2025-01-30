@@ -3,9 +3,11 @@
 <br>
 
 <div align="center">
-  <img class="output" src="https://github-readme-stats.vercel.app/api?username=m4ujo&amp;theme=nord&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" alt="github stats" height="150">
-  <img class="output" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4ujo&amp;theme=nord&amp;show_icons=true&amp;hide_border=true&amp;layout=compact" alt="github top languages" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=m4ujo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m4ujo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
 
 ## 👩‍💻 About me
 I'm a Front-end Developer with a strong interest in programming and building functional websites with excellent user experiences. Additionally, I have back-end development skills that complement my profile.
