@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there! I'm Mauricio Castillo</h1>
+<h1 align="center">👋 Hi there! I'm Mauricio</h1>
 
 <br>
 
