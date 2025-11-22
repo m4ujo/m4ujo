@@ -1,4 +1,4 @@
-#👋🏽 Hi there! I'm Mauricio
+# 👋🏽 Hi there! I'm Mauricio
 
 I'm a developer with a strong interest in programming and building functional websites with excellent user experiences. Additionally, I have back-end development skills that complement my profile.
 
